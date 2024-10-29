@@ -35,9 +35,9 @@ object DBHelper {
     val database = Database.connect(
         driver = "com.mysql.cj.jdbc.Driver",
        url = "jdbc:mysql://127.0.0.1:3306/connect",
-        user = "root",
+        user = "cto",
 //        user = "connect",
-        password = "JayM0st!",
+        password = "Fiqra@22!!",
 //        password = "SAAdqca23#",
         logger = ConsoleLogger(threshold = LogLevel.INFO)
     )
